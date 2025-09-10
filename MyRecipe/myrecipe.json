@@ -16,5 +16,15 @@
                 "star": 2
             }
         }
+    ],
+    "ryby": [
+        {
+            "karas": {
+                "title": "Karas",
+                "my_recipe": "vjvjygiho",
+                "support": "Wytyczne",
+                "star": 0
+            }
+        }
     ]
 }
