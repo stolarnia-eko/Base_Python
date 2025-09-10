@@ -16,5 +16,15 @@
                 "star": 1
             }
         }
+    ],
+    "ryby": [
+        {
+            "karas": {
+                "title": "Karas",
+                "my_recipe": "liygyuft",
+                "support": "Wytyczne",
+                "star": 0
+            }
+        }
     ]
 }
