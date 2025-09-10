@@ -26,5 +26,15 @@
                 "star": 0
             }
         }
+    ],
+    "salatki": [
+        {
+            "oliwe": {
+                "title": "Oliwe",
+                "my_recipe": "yfyugyug",
+                "support": "Wytyczne",
+                "star": 0
+            }
+        }
     ]
 }
