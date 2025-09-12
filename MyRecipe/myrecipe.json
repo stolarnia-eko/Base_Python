@@ -9,14 +9,5 @@
             }
         }
     ],
-    "drugiedania": [
-        {
-            "kaszagreczana": {
-                "title": "Kasza greczana",
-                "my_recipe": "kjbkuguigui",
-                "support": "Wytyczne",
-                "star": 0
-            }
-        }
-    ]
+    "drugiedania": []
 }
