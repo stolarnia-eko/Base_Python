@@ -1,5 +1,14 @@
 {
-    "pierwszedania": [],
+    "pierwszedania": [
+        {
+            "barszczukrainski": {
+                "title": "Barszcz ukrainski",
+                "my_recipe": "kjgkuhuihiu",
+                "support": "Wytyczne",
+                "star": 0
+            }
+        }
+    ],
     "drugiedania": [
         {
             "kaszagreczana": {
